@@ -1,0 +1,15 @@
+div {
+  display: none;
+  margin: 0px;
+  height: 100vh;
+  background-color: #c0392b;
+  text-align: center;
+  color: white;
+  font-family: sans-serif; }
+  div h2, div h3, div h1 {
+    position: relative;
+    top: 30vh; }
+  div h1 {
+    font-size: 300%; }
+
+/*# sourceMappingURL=message.css.map */
